@@ -1,0 +1,53 @@
+/* colors */
+
+$body-bg: #fbf8ec;
+$catalog-bg: #70c05b;
+$white: #ffffff;
+$black: #000000;
+$opacity0: rgba(0 0 0 / 0);
+$hero-font-color: #414141;
+$sale-count-bg: #ff6633;
+$normal-price-color: #606060;
+$sale-price-color: #414141;
+$orange: #ff6633;
+$gray: #606060;
+$dark-green: #84bcb1;
+$adv-color: hsl(0, 0%, 90%);
+$droped-link-hover: #d9d9d9;
+$droped-link-hover1: #d6d7d6;
+$steps__border-top: rgb(147, 188, 180);
+$steps__border-top1: #c7d9c6;
+$steps__title1: rgb(58, 58, 58);
+$vk-fill: #0077ff;
+$watsapp-fill: #25d366;
+$nav-color: #662626;
+$nav-color-hover: #c48a8a;
+$logo-color: #3a6883;
+$logo-color-hover: #669ec0;
+$logo-color-active: #81b3d2;
+$pink: #ffdbdb;
+$green: #008000;
+$header-shadow-down: 2px 4px 8px rgba(0, 0, 0, 0.1);
+$cart-shadow: 1px 2px 4px rgba(0, 0, 0, 0.1);
+
+/* vars */
+
+$transition-slow: all 0.5s ease-in-out;
+$transition-fast: all 0.2s ease-in-out;
+
+
+/* keyframes */
+
+@keyframes glowing {
+  0% {
+    background-position: 0 0;
+  }
+
+  50% {
+    background-position: 400% 0;
+  }
+
+  100% {
+    background-position: 0 0;
+  }
+}

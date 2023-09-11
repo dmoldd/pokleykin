@@ -1,0 +1,13 @@
+.hero {
+  overflow: visible;
+  position: relative;
+  z-index: 2;
+}
+
+.hero .container {
+  background-image: url(../img/svg/fiol-oblako.svg);
+  background-position: 163px 41px;
+  background-size: 287px auto;
+  background-repeat: no-repeat;
+  min-height: 300px;
+}
