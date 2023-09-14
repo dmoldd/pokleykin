@@ -5,9 +5,9 @@
 }
 
 .hero .container {
-  background-image: url(../img/svg/fiol-oblako.svg);
-  background-position: 163px 41px;
-  background-size: 287px auto;
+  background-image: url(../img/svg/women.svg), url(../img/svg/fiol-oblako.svg), url(../img/svg/sun.svg), url(../img/svg/bel-oblako.svg), url(../img/svg/bel-oblako1.svg), url(../img/svg/bel-oblako1.svg);
+  background-position: 0 23px, 166px 41px, 672px 105px, 441px 139px, 897px 201px, 228px 301px;
+  background-size: 421px 601px, 287px auto, 177px auto, 173px 95px, 154px 84px, 154px 84px;
   background-repeat: no-repeat;
-  min-height: 300px;
+  min-height: 600px;
 }
